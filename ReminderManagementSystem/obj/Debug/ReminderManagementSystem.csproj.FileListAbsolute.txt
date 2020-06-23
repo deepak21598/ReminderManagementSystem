@@ -1,0 +1,160 @@
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\ApplicationInsights.config
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\csc.exe
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\vbc.exe
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\VBCSCompiler.exe
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\ReminderManagementSystem.dll.config
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\ReminderManagementSystem.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\ReminderManagementSystem.pdb
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Antlr3.Runtime.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\EntityFramework.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\EntityFramework.SqlServer.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.Web.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.ApplicationInsights.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Newtonsoft.Json.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Owin.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\System.Web.Optimization.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\System.Web.Providers.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\WebGrease.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.Web.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.ApplicationInsights.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\System.Web.Optimization.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Antlr3.Runtime.pdb
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Newtonsoft.Json.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\EntityFramework.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\EntityFramework.SqlServer.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\System.Web.Providers.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\obj\Debug\ReminderManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\obj\Debug\ReminderManagementSystem.dll
+c:\users\deepak.rajput\documents\visual studio 2015\Projects\ReminderManagementSystem1\ReminderManagementSystem\obj\Debug\ReminderManagementSystem.pdb
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\obj\Debug\ReminderManagementSystem.csprojAssemblyReference.cache
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\obj\Debug\ReminderManagementSystem.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\obj\Debug\ReminderManagementSystem.pdb
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\ApplicationInsights.config
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\csc.exe
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\vbc.exe
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\ReminderManagementSystem.dll.config
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\ReminderManagementSystem.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\ReminderManagementSystem.pdb
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Antlr3.Runtime.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\AspNet.ScriptManager.jQuery.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\EntityFramework.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.Web.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.ApplicationInsights.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Newtonsoft.Json.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Owin.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\System.Web.Optimization.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\System.Web.Providers.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\WebGrease.dll
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.Web.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.ApplicationInsights.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\System.Web.Optimization.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Newtonsoft.Json.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\EntityFramework.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\System.Web.Providers.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\obj\Debug\ReminderManagementSystem.csproj.CopyComplete
+C:\Deepak\ReminderManagementSystem1\ReminderManagementSystem\obj\Debug\ReminderManagementSystem.csproj.CoreCompileInputs.cache
